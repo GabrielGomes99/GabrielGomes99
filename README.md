@@ -5,7 +5,7 @@ Sou Gabriel Gomes
 - Cursando Engenharia de Software (Unicesumar)
 - Desenvolvedor em constante aprendizado
  
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Conhecimentos & Aprendizado
 
 <div style="display: inline_block"><br/>
     <img align="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
