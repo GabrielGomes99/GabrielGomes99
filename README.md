@@ -4,6 +4,8 @@ Sou Gabriel Gomes
 
 - Cursando Engenharia de Software (Unicesumar)
 
+## 🛠 &nbsp;Tech Stack
+
 <div style="display: inline_block"><br/>
     <img align="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img align="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
