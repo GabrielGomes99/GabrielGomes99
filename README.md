@@ -1,8 +1,5 @@
-Bem Vindo ao meu GitHub 📚💻
-
 Hello! Welcome to my Github profile 📚💻
 
-Sou Gabriel Gomes
 I am Gabriel Gomes
 
 
