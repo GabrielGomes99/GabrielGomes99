@@ -2,12 +2,7 @@ Hello! Welcome to my Github profile 📚💻
 
   I am Gabriel Gomes
 
-
-- Cursando Engenharia de Software (Unicesumar)
-
 - Software Engineering (Unicesumar)
-  
-- Desenvolvedor em constante aprendizado
 
 - Developer in constant learning
 
