@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Português</h3>
+      <h3 align="center">🇧🇷 Português</h3>
       <h4 align="left">Olá! Bem-vindo(a) ao meu perfil do Github 📚💻<br><br>
       - Eu sou o Gabriel Gomes<br><br>
       - Formado em Engenharia de Software (Unicesumar) e cursando Cibersegurança 🔒<br><br>
@@ -12,7 +12,7 @@
       - 🌐 Meu Portfólio: <a href="https://devgabrielgomesportfolio.site">devgabrielgomesportfolio.site</a></h4>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">English</h3>
+      <h3 align="center">🇺🇸 English</h3>
       <h4 align="left">Hello! Welcome to my Github profile 📚💻<br><br>
       - I am Gabriel Gomes<br><br>
       - Graduated in Software Engineering (Unicesumar) & Currently studying Cybersecurity 🔒<br><br>
@@ -25,8 +25,6 @@
   </tr>
 </table>
 
-###
-
 <br><br>
 
 <h3 align="center">📊 Minhas Estatísticas | My Stats</h3>
@@ -36,8 +34,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGomes99&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+<br><br>
 
-###
+<h3 align="left">🛠️ Tecnologias | Technologies</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -65,13 +64,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
-###
+<br>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35" alt="power bi badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Qlik_Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" height="35" alt="qlik sense badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Unit_Testing-C21325?style=for-the-badge&logo=jest&logoColor=white" height="35" alt="unit testing badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="35" alt="kali linux badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/OWASP_Security-000000?style=for-the-badge&logo=owasp&logoColor=white" height="35" alt="owasp badge" />
+</div>
+
+<br><br>
+
+<h3 align="left">📫 Contatos | Contacts</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/flashnotfound_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="1dev.gabrielgomes@gmail.com" target="_blank">
+  <a href="mailto:1dev.gabrielgomes@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-gomes-de-moraes-b98b54234/" target="_blank">
