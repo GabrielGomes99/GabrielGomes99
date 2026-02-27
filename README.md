@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🇧🇷 Versão em Português</h3>
+      <h3 align="center">Português</h3>
       <h4 align="left">Olá! Bem-vindo(a) ao meu perfil do Github 📚💻<br><br>
       - Eu sou o Gabriel Gomes<br><br>
       - Formado em Engenharia de Software (Unicesumar) e cursando Cibersegurança 🔒<br><br>
@@ -12,7 +12,7 @@
       - 🌐 Meu Portfólio: <a href="https://devgabrielgomesportfolio.site">devgabrielgomesportfolio.site</a></h4>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🇺🇸 English Version</h3>
+      <h3 align="center">English</h3>
       <h4 align="left">Hello! Welcome to my Github profile 📚💻<br><br>
       - I am Gabriel Gomes<br><br>
       - Graduated in Software Engineering (Unicesumar) & Currently studying Cybersecurity 🔒<br><br>
