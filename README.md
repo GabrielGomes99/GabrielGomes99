@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🇧🇷 Português</h3>
+      <h3 align="center">Português</h3>
       <h4 align="left">Olá! Bem-vindo(a) ao meu perfil do Github 📚💻<br><br>
       - Eu sou o Gabriel Gomes<br><br>
       - Formado em Engenharia de Software (Unicesumar) e cursando Cibersegurança 🔒<br><br>
@@ -12,7 +12,7 @@
       - 🌐 Meu Portfólio: <a href="https://devgabrielgomesportfolio.site">devgabrielgomesportfolio.site</a></h4>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🇺🇸 English</h3>
+      <h3 align="center">English</h3>
       <h4 align="left">Hello! Welcome to my Github profile 📚💻<br><br>
       - I am Gabriel Gomes<br><br>
       - Graduated in Software Engineering (Unicesumar) & Currently studying Cybersecurity 🔒<br><br>
@@ -24,17 +24,6 @@
     </td>
   </tr>
 </table>
-
-<br><br>
-
-<h3 align="center">📊 Minhas Estatísticas | My Stats</h3>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGomes99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGomes99&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<br><br>
 
 <h3 align="left">🛠️ Tecnologias | Technologies</h3>
 
