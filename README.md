@@ -1,14 +1,40 @@
-<h2 align="left">Hello! Welcome to my Github profile 📚💻
-
-- I am Gabriel Gomes
-
-- Software Engineering (Unicesumar)
-
-- Developer in constant learning
-
-- Interning at the Ministry of Management and Innovation in Services Public</h2>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🇧🇷 Versão em Português</h3>
+      <h4 align="left">Olá! Bem-vindo(a) ao meu perfil do Github 📚💻<br><br>
+      - Eu sou o Gabriel Gomes<br><br>
+      - Formado em Engenharia de Software (Unicesumar) e cursando Cibersegurança 🔒<br><br>
+      - 1 ano e meio estagiando no Ministério da Gestão e Inovação em Serviços Públicos 🏛️<br><br>
+      - Desenvolvedor em constante aprendizado e evolução 🚀<br><br>
+      - 💻 Foco em: Desenvolvimento Web, Sistemas de Gestão, Análise de Dados e Dashboards 📊<br><br>
+      - 🏢 Minha Empresa: <a href="http://auresystemtechnology.site">Aure System Technology</a><br><br>
+      - 🌐 Meu Portfólio: <a href="https://devgabrielgomesportfolio.site">devgabrielgomesportfolio.site</a></h4>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🇺🇸 English Version</h3>
+      <h4 align="left">Hello! Welcome to my Github profile 📚💻<br><br>
+      - I am Gabriel Gomes<br><br>
+      - Graduated in Software Engineering (Unicesumar) & Currently studying Cybersecurity 🔒<br><br>
+      - 1.5 years interning at the Ministry of Management and Innovation in Public Services 🏛️<br><br>
+      - Developer in constant learning and evolution 🚀<br><br>
+      - 💻 Focusing on: Web Development, Management Systems, Data Analysis, and Dashboards 📊<br><br>
+      - 🏢 My Company: <a href="http://auresystemtechnology.site">Aure System Technology</a><br><br>
+      - 🌐 My Portfolio: <a href="https://devgabrielgomesportfolio.site">devgabrielgomesportfolio.site</a></h4>
+    </td>
+  </tr>
+</table>
 
 ###
+
+<br><br>
+
+<h3 align="center">📊 Minhas Estatísticas | My Stats</h3>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGomes99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGomes99&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 
 ###
