@@ -18,11 +18,13 @@
       <h4 align="left">Hello! Welcome to my Github profile 📚💻<br><br>
       - I am Gabriel Gomes<br><br>
       - Graduated in Software Engineering (Unicesumar) & Currently studying Cybersecurity 🔒<br><br>
-      - 1.5 years interning at the Ministry of Management and Innovation in Public Services 🏛️<br><br>
-      - Developer in constant learning and evolution 🚀<br><br>
-      - 💻 Focusing on: Web Development, Management Systems, Data Analysis, and Dashboards 📊<br><br>
+      - 2 years of experience interning at the Ministry of Management and Innovation in Public Services 🏛️<br><br>
+      - Hands-on experience with: Analytics Dashboards, Management Systems, REST APIs and Security 🔐<br><br>
+      - Developer passionate about clean code, innovation and information security 🚀<br><br>
+      - 💻 Focusing on: Full Stack Web Development, Management Systems, Data Analysis, and Dashboards 📊<br><br>
       - 🏢 My Company: <a href="http://auresystemtechnology.site">Aure System Technology</a><br><br>
-      - 🌐 My Portfolio: <a href="https://devgabrielgomesportfolio.site">devgabrielgomesportfolio.site</a></h4>
+      - 🌐 My Portfolio: <a href="https://devgabrielgomesportfolio.site">devgabrielgomesportfolio.site</a><br><br>
+      - 📄 My Resume: <a href="https://drive.google.com/file/d/YOUR_CURRICULUM_ID/view">Download CV</a></h4>
     </td>
   </tr>
 </table>
