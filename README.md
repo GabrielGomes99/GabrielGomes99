@@ -5,11 +5,13 @@
       <h4 align="left">Olá! Bem-vindo(a) ao meu perfil do Github 📚💻<br><br>
       - Eu sou o Gabriel Gomes<br><br>
       - Formado em Engenharia de Software (Unicesumar) e cursando Cibersegurança 🔒<br><br>
-      - 1 ano e meio estagiando no Ministério da Gestão e Inovação em Serviços Públicos 🏛️<br><br>
-      - Desenvolvedor em constante aprendizado e evolução 🚀<br><br>
-      - 💻 Foco em: Desenvolvimento Web, Sistemas de Gestão, Análise de Dados e Dashboards 📊<br><br>
+      - 2 anos de experiência estagiando no Ministério da Gestão e Inovação em Serviços Públicos 🏛️<br><br>
+      - Experiência prática com: Dashboard Analytics, Sistemas de Gestão, APIs REST e Segurança 🔐<br><br>
+      - Desenvolvedor apaixonado por código limpo, inovação e segurança da informação 🚀<br><br>
+      - 💻 Foco em: Desenvolvimento Web Full Stack, Sistemas de Gestão, Análise de Dados e Dashboards 📊<br><br>
       - 🏢 Minha Empresa: <a href="http://auresystemtechnology.site">Aure System Technology</a><br><br>
-      - 🌐 Meu Portfólio: <a href="https://devgabrielgomesportfolio.site">devgabrielgomesportfolio.site</a></h4>
+      - 🌐 Meu Portfólio: <a href="https://devgabrielgomesportfolio.site">devgabrielgomesportfolio.site</a><br><br>
+      - 📄 Meu Currículo: <a href="https://drive.google.com/file/d/YOUR_CURRICULUM_ID/view">Download CV</a></h4>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">English</h3>
